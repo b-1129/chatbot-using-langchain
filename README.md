@@ -66,4 +66,4 @@ The Llama-2 API Chatbot with LangChain utilizes the Llama-2 API to provide advan
 Feel free to reach out if you have any questions or suggestions.
 
 - **Email** : brijesh29.it11@gmail.com
-- **GitHub** : 
+- **GitHub** : https://github.com/b-1129
